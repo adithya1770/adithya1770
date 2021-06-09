@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adithya1770
 - 👀 I’m interested in python
-- 🌱 I’m currently learning API
+- 🌱 I’m currently a beginner
 - 💞️ I’m looking to collaborate on discord.py and stuff
 - 📫 How to reach me adithyaps929@gmail.com
 
