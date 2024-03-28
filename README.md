@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/adithya1770"><img width="80%" alt="Hello, I'm Adithya. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 <h1>So far!</h1>
 <hr>
 
