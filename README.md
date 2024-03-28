@@ -1,7 +1,5 @@
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya1770&theme=neon&show_icons=true)
-![Adithya's GitHub stats](https://github-readme-repo.vercel.app/api?username=adithya1770&theme=dark&show_icons=true)
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya1770&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya1770&show_icons=true)
+
+![Adithya's GitHub stats](https://github-readme-repo.vercel.app/api?username=adithya1770&theme=neon&show_icons=true)
 
 <!---
 adithya1770/adithya1770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
