@@ -18,7 +18,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
 <i class="devicon-javascript-plain colored" alt="js" width="45" height="45"></i>
-<i class="devicon-express-original" alt="ejs" width="45" height="45"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ejs" width="45" height="45" />
+          
                
   
 </p>
