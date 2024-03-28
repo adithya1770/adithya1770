@@ -9,7 +9,7 @@
 
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya1770&show_icons=true&theme=radical)
 
-<a href="https://github.com/adithya1770/github-readme-stats" style="position:absolute top:45"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya1770&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/adithya1770/github-readme-stats" style="position:absolute top:45 right:40"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya1770&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h2>&nbsp;Skills I Posses!</h2>
 <p align="left">
