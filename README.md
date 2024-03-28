@@ -2,7 +2,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
 </head>
 
-<p align="center"><a href="https://github.com/adithya1770"><img width="80%" alt="Hello, I'm Adithya. I do open source!" src="./assets/header.png" /></p>
+<p align="center"><a href="https://github.com/adithya1770"><img width="80%" alt="Hello, I'm Adithya. I do open source!" src="./assets/header.png" />
 
 <h1>So far!</h1>
 <hr>
