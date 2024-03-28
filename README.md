@@ -8,7 +8,7 @@
 <hr>
 
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya1770&show_icons=true&theme=radical)
-
+ <a href="https://github.com/adithya1770/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya1770&layout=compact&theme=buefy&hide_border=true" /></a
 <h2>&nbsp;Skills I Posses!</h2>
 <p align="left">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" alt="html" width="45" height="45"/>
@@ -22,12 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="rasp" width="45" height="45"  />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg' alt="fls" width="45" height="45"  />       
-
-
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
 </p>
 
 <hr>
