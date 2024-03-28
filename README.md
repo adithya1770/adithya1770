@@ -25,7 +25,14 @@
           
 </p>
 
+<hr>
 
+<h1>About Me!</h1>
+<ul>
+          <li> aspiring web developer with a passion for space technology</li>
+          <li>love ancient history and geography</li>
+          <li>i drift away listening to rock and jazz</li>
+</ul>
 
 <!---
 adithya1770/adithya1770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
