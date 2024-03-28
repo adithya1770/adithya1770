@@ -21,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="rasp" width="45" height="45"  />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg' alt="fls" width="45" height="45"  />       
           
 </p>
 
