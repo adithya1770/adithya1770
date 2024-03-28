@@ -29,9 +29,9 @@
 
 <h1>About Me!</h1>
 <ul>
-          <li> aspiring web developer with a passion for space technology</li>
-          <li>love ancient history and geography</li>
-          <li>i drift away listening to rock and jazz</li>
+          <li><b>aspiring web developer with a passion for space technology</li>
+          <li><b>love ancient history and geography</li>
+          <li><b>i drift away listening to rock and jazz</li>
 </ul>
 
 <!---
