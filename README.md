@@ -1,3 +1,5 @@
+<h1>So far!</h1>
+<hr>
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya1770&show_icons=true&theme=radical)
 
 <!---
